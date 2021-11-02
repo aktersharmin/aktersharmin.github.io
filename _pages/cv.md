@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics, University of Dhaka, Dhaka, Bangladesh, 2012
+* M.Sc. in Physics, University of Dhaka, Dhaka, Bangladesh, 2013
+* M.Sc. in Physics, University of Texas at El Paso, TX, USA, 2017
+* Ph.D in Computational Science, University of Texas at El Paso, TX, USA, 2022 (expected)
 
 Work experience
 ======
