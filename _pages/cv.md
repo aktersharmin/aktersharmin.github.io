@@ -15,7 +15,7 @@ redirect_from:
 * M.Sc. in Physics, University of Dhaka, Dhaka, Bangladesh, 2013
 * M.Sc. in Physics, University of Texas at El Paso, TX, USA, 2017
 * Ph.D in Computational Science, University of Texas at El Paso, TX, USA, 2022 (expected) -->
-* https://github.com/aktersharmin/Resume/blob/main/Sharmin_CV.pdf
+ https://github.com/aktersharmin/Resume/blob/main/Sharmin_CV.pdf
 
 <!-- Work experience
 ======
