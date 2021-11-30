@@ -9,14 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+<!-- Education -->
+<!-- ======
 * B.Sc. in Physics, University of Dhaka, Dhaka, Bangladesh, 2012
 * M.Sc. in Physics, University of Dhaka, Dhaka, Bangladesh, 2013
 * M.Sc. in Physics, University of Texas at El Paso, TX, USA, 2017
-* Ph.D in Computational Science, University of Texas at El Paso, TX, USA, 2022 (expected)
+* Ph.D in Computational Science, University of Texas at El Paso, TX, USA, 2022 (expected) -->
+* https://github.com/aktersharmin/Resume/blob/main/Sharmin_CV.pdf
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -57,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
