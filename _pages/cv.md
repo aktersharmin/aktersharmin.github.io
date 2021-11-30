@@ -9,15 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV](https://github.com/aktersharmin/Resume/raw/main/Sharmin_CV.pdf)
+
+
 <!-- Education -->
 <!-- ======
 * B.Sc. in Physics, University of Dhaka, Dhaka, Bangladesh, 2012
 * M.Sc. in Physics, University of Dhaka, Dhaka, Bangladesh, 2013
 * M.Sc. in Physics, University of Texas at El Paso, TX, USA, 2017
 * Ph.D in Computational Science, University of Texas at El Paso, TX, USA, 2022 (expected) -->
-*Link for my CV
-*
- https://https://github.com/aktersharmin/Resume/blob/main/Sharmin_CV.pdf
+
 
 <!-- Work experience
 ======
