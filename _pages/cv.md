@@ -17,7 +17,7 @@ redirect_from:
 * Ph.D in Computational Science, University of Texas at El Paso, TX, USA, 2022 (expected) -->
 *Link for my CV
 *
- https://aktersharmin.github.io/cv/Sharmin_CV.pdf
+ https://https://github.com/aktersharmin/Resume/blob/main/Sharmin_CV.pdf
 
 <!-- Work experience
 ======
