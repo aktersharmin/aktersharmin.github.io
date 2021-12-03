@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
- 
+Research interests
+======
+Electronic structures, Quantum mechanics, Quantum chemistry, Material Science, Computational Material Science, Density Functional Theory(DFT), Self-interaction correction to DFT (FLOSIC, LSIC)
 
 <!-- A data-driven personal website
 ======
