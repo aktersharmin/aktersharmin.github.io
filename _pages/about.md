@@ -15,15 +15,15 @@ Electronic structures, Quantum mechanics, Quantum chemistry, Material Science, C
 
 Publications
 ======
-[1] {\bf Sharmin Akter}, Jorge Vargas, Kamal Sharkas, Juan E Peralta, Koblar A Jackson, Tunna Baruah, and Rajendra R Zope. “How well do self-interaction corrections repair the over-estimation of molec-ular polarizabilities in density functional calculations?” {\it Physical Chemistry Chemical Physics}, 2021  
+[1] **Sharmin Akter**, Jorge Vargas, Kamal Sharkas, Juan E Peralta, Koblar A Jackson, Tunna Baruah, and Rajendra R Zope. “How well do self-interaction corrections repair the over-estimation of molec-ular polarizabilities in density functional calculations?” {\it Physical Chemistry Chemical Physics}, 2021  
 
-[2] {\bf Sharmin Akter}, Yoh Yamamoto, Rajendra R Zope, and Tunna Baruah. ``Static dipole polarizabilities of polyacenes using self-interaction-corrected density functional approximations''. {\it The Journal of Chemical Physics, 154.11}, p.114305, 2021
+[2] **Sharmin Akter**, Yoh Yamamoto, Rajendra R Zope, and Tunna Baruah. ``Static dipole polarizabilities of polyacenes using self-interaction-corrected density functional approximations''. {\it The Journal of Chemical Physics, 154.11}, p.114305, 2021
 
-[3] {\bf Sharmin Akter}, Yoh Yamamoto, Carlos M Diaz, Koblar A Jackson, Rajendra R Zope, and Tunna Baruah. ``Study of self-interaction errors in density functional predictions of dipole polarizabilities and ionization energies of water clusters using Perdew–Zunger and locally scaled self-interaction corrected methods''. {\it The Journal of Chemical Physics }, 153(16):164304, 2020
+[3] **Sharmin Akter**, Yoh Yamamoto, Carlos M Diaz, Koblar A Jackson, Rajendra R Zope, and Tunna Baruah. ``Study of self-interaction errors in density functional predictions of dipole polarizabilities and ionization energies of water clusters using Perdew–Zunger and locally scaled self-interaction corrected methods''. {\it The Journal of Chemical Physics }, 153(16):164304, 2020
 
-[4] Kamal Sharkas, Kamal Wagle, Biswajit Santra, {\bf Sharmin Akter}, Rajendra R Zope, Tunna Baruah, Koblar A Jackson, John P Perdew, and Juan E Peralta.  ``Self-interaction error overbinds water clusters but cancels in structural energy differences''. {\it Proceedings of the National Academy of Sciences}, 117(21):11283–11288, 2020
+[4] Kamal Sharkas, Kamal Wagle, Biswajit Santra, **Sharmin Akter**, Rajendra R Zope, Tunna Baruah, Koblar A Jackson, John P Perdew, and Juan E Peralta.  ``Self-interaction error overbinds water clusters but cancels in structural energy differences''. {\it Proceedings of the National Academy of Sciences}, 117(21):11283–11288, 2020
 
-[5] Kushantha P. K. Withanage, {\bf Sharmin Akter}, Chandra Shahi, Rajendra P. Joshi, Carlos Diaz, Yoh Yamamoto, Rajendra Zope, Tunna Baruah, John P. Perdew, Juan E. Peralta, and Koblar A. Jackson. ``Self-interaction-free electric dipole polarizabilities for atoms and their ions using the Fermi-L\"{o}wdin self-interaction correction''. {\it Phys. Rev. A}, 100:012505, July, 2019
+[5] Kushantha P. K. Withanage, **Sharmin Akter**, Chandra Shahi, Rajendra P. Joshi, Carlos Diaz, Yoh Yamamoto, Rajendra Zope, Tunna Baruah, John P. Perdew, Juan E. Peralta, and Koblar A. Jackson. ``Self-interaction-free electric dipole polarizabilities for atoms and their ions using the Fermi-L\"{o}wdin self-interaction correction''. {\it Phys. Rev. A}, 100:012505, July, 2019
 
 
 
